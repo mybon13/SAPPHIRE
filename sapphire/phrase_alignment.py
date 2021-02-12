@@ -50,7 +50,7 @@ class PhraseExtract(object):
         self, word_alignments, vectors_src: np.array, vectors_trg: np.array
     ):
         """
-        Extract phrase pairs using the hueristic of phrase-based SMT.
+        Extract phrase pairs using the heuristic of phrase-based SMT.
 
         Parameters
         ----------
